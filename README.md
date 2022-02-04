@@ -1,1 +1,3 @@
 Lacework CloudFormation template
+
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/a145e7c2-c4a6-41cc-9a3b-ae5543a6ff5e.svg?orgId=262062603972)](https://app.soluble.cloud/repos/details/github.com/toontjem/lacework-cf?orgId=262062603972)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/80fb4e6a-1e6b-4a5e-88e0-386471358535.svg?orgId=262062603972)](https://app.soluble.cloud/repos/details/github.com/toontjem/lacework-cf?orgId=262062603972)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/d6db1c9a-8951-4904-8f6f-ea580e32375d.svg?orgId=262062603972)](https://app.soluble.cloud/repos/details/github.com/toontjem/lacework-cf?orgId=262062603972)  
