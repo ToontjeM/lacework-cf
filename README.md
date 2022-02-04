@@ -1,1 +1,1 @@
-# lacework-cf
+Lacework CloudFormation template
